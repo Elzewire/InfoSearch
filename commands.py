@@ -1,7 +1,9 @@
 from crawler import Crawler
 from helpers import get_random_wiki_pages, index_file
 
+''' Функции консольных команд '''
 
+# Помощь
 def help(params):
     if len(params) == 0:
         print('crawl [URL] - загрузка страницы по URL')
@@ -12,6 +14,7 @@ def help(params):
         print('Неверное число аргументов')
 
 
+# Загрузка одной страницы краулером
 def crawl(params):
     if len(params) == 1:
         print('Идёт загрузка...')
@@ -22,6 +25,7 @@ def crawl(params):
         print('Неверное число аргументов')
 
 
+# Загрузка всех страниц краулером
 def crawl_all(params):
     if len(params) == 0:
         print('Идёт загрузка...')
@@ -32,6 +36,7 @@ def crawl_all(params):
         print('Неверное число аргументов')
 
 
+# Генерация ссылок на статьи для загрузки
 def generate(params):
     if len(params) == 0:
         print('Идёт генерация...')
@@ -45,6 +50,7 @@ def generate(params):
         print('Неверное число аргументов')
 
 
+# Генерация файла index.txt
 def ixfile(params):
     if len(params) == 0:
         print('Созание файла...')
