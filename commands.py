@@ -3,6 +3,7 @@ from helpers import get_random_wiki_pages, index_file
 
 ''' Функции консольных команд '''
 
+
 # Помощь
 def help(params):
     if len(params) == 0:
