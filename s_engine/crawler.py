@@ -3,16 +3,15 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-from settings import DATA_DIR, WEB_PAGES_FILE, DOWNLOADS_PATH
+from InfoSearch.settings import MEDIA_ROOT, DOWNLOADS_PATH
 
 ''' Краулер '''
 
 
 class Crawler:
-    def __init__(self, path=DOWNLOADS_PATH, file=WEB_PAGES_FILE):
+    def __init__(self, path=DOWNLOADS_PATH):
         # Создание директорий для загрузки
-        self.path = os.path.join(DATA_DIR, path)
-        self.file = os.path.join(DATA_DIR, file)
+        self.path = os.path.join(MEDIA_ROOT, path)
         if not os.path.exists(self.path):
             os.makedirs(self.path)
 
@@ -20,13 +19,10 @@ class Crawler:
         # Загрузка и сохранение страницы по URL
         response = requests.get(url, allow_redirects=True)
         bs = BeautifulSoup(response.text, 'html.parser')
-        print(bs.title.string.replace('/', ' '))
+        title = bs.title.string.replace('/', ' ')
+        print(title)
         file = open(os.path.join(self.path, bs.title.string.replace('/', ' ')) + '.txt', 'w', encoding='utf-8')
         file.write(bs.get_text())
         print("Сохранено как {}".format(file.name))
         file.close()
-
-    def download_all(self):
-        # Загрузка всех страниц из файла
-        for url in open(self.file):
-            self.crawl(url.split('\n')[0])
+        return title, os.path.join(self.path, file.name)
