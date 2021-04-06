@@ -1,0 +1,200 @@
+0 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Зелёная Слобода (Красноярский край) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F_%D0%A1%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0_(%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B0%D0%B9)
+
+1 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Пока бьют часы (фильм) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D0%B0_%D0%B1%D1%8C%D1%8E%D1%82_%D1%87%D0%B0%D1%81%D1%8B_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)
+
+2 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Летчфорд, Морис — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D1%87%D1%84%D0%BE%D1%80%D0%B4,_%D0%9C%D0%BE%D1%80%D0%B8%D1%81
+
+3 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Гусаков, Дмитрий Михайлович — Википедия.txt https://ru.wikipedia.org/wiki/%D0%93%D1%83%D1%81%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87
+
+4 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Алхимов, Владимир Сергеевич — Википедия.txt https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%85%D0%B8%D0%BC%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87
+
+5 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Кински, Антонин — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D1%81%D0%BA%D0%B8,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BD
+
+6 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Азербайджанские авиалинии — Википедия.txt https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8
+
+7 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Веццано-суль-Кростоло — Википедия.txt https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%86%D1%86%D0%B0%D0%BD%D0%BE-%D1%81%D1%83%D0%BB%D1%8C-%D0%9A%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BB%D0%BE
+
+8 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Гевенаттен — Википедия.txt https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B2%D0%B5%D0%BD%D0%B0%D1%82%D1%82%D0%B5%D0%BD
+
+9 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Томич, Милош — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D0%B8%D1%87,_%D0%9C%D0%B8%D0%BB%D0%BE%D1%88
+
+10 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Мото Клуб — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%BE_%D0%9A%D0%BB%D1%83%D0%B1
+
+11 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Финал Кубка африканских наций 1996 — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB_%D0%9A%D1%83%D0%B1%D0%BA%D0%B0_%D0%B0%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D0%BD%D0%B0%D1%86%D0%B8%D0%B9_1996
+
+12 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Прокуратура Нагорно-Карабахской Республики — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%9D%D0%B0%D0%B3%D0%BE%D1%80%D0%BD%D0%BE-%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D1%85%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8
+
+13 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Мафия PayPal — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%84%D0%B8%D1%8F_PayPal
+
+14 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Низовой, Виктор Алексеевич — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87
+
+15 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Вазаль — Википедия.txt https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B7%D0%B0%D0%BB%D1%8C
+
+16 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Берналь, Габриэль — Википедия.txt https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D0%BB%D1%8C,_%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D1%8D%D0%BB%D1%8C
+
+17 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Хифи, Мэтт — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D1%84%D0%B8,_%D0%9C%D1%8D%D1%82%D1%82
+
+18 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Кармайкл, Малкольм — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%B9%D0%BA%D0%BB,_%D0%9C%D0%B0%D0%BB%D0%BA%D0%BE%D0%BB%D1%8C%D0%BC
+
+19 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Мост через шлюз Новосибирской ГЭС — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D1%82_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D1%88%D0%BB%D1%8E%D0%B7_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%93%D0%AD%D0%A1
+
+20 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Европейский исламский совет — Википедия.txt https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D0%BB%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B2%D0%B5%D1%82
+
+21 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Амхерст (округ) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D1%85%D0%B5%D1%80%D1%81%D1%82_(%D0%BE%D0%BA%D1%80%D1%83%D0%B3)
+
+22 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Барон Монкрифф — Википедия.txt https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%BE%D0%BD_%D0%9C%D0%BE%D0%BD%D0%BA%D1%80%D0%B8%D1%84%D1%84
+
+23 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Первенство Европы по кёрлингу среди юниоров 2009 — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B_%D0%BF%D0%BE_%D0%BA%D1%91%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D1%83_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D1%8E%D0%BD%D0%B8%D0%BE%D1%80%D0%BE%D0%B2_2009
+
+24 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Балерди, Леонардо — Википедия.txt https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B5%D1%80%D0%B4%D0%B8,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4%D0%BE
+
+25 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Монеты евро Нидерландов — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D1%8B_%D0%B5%D0%B2%D1%80%D0%BE_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2
+
+26 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Лас-Дуэньяс (Саламанка) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81-%D0%94%D1%83%D1%8D%D0%BD%D1%8C%D1%8F%D1%81_(%D0%A1%D0%B0%D0%BB%D0%B0%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0)
+
+27 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Королевская тетра — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D1%82%D1%80%D0%B0
+
+28 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Монлуи — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%BB%D1%83%D0%B8
+
+29 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Крокидолит — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%BA%D0%B8%D0%B4%D0%BE%D0%BB%D0%B8%D1%82
+
+30 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Занятый пар — Википедия.txt https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80
+
+31 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Орловский государственный академический театр имени И. С. Тургенева — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%98._%D0%A1._%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0
+
+32 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Большая Липовица (приток Липовицы) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%9B%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8%D1%86%D0%B0_(%D0%BF%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9B%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8%D1%86%D1%8B)
+
+33 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Walking into Clarksdale — Википедия.txt https://ru.wikipedia.org/wiki/Walking_into_Clarksdale
+
+34 C:\Users\Edward\Desktop\InfoSearch\media\downloads\The Final Chapter (альбом C-Bo) — Википедия.txt https://ru.wikipedia.org/wiki/The_Final_Chapter_(%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC_C-Bo)
+
+35 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Сафарян, Андрей Рачикович — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%84%D0%B0%D1%80%D1%8F%D0%BD,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%A0%D0%B0%D1%87%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D1%87
+
+36 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Чемпионат Югославии по футболу 1974 1975 — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%AE%D0%B3%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_1974/1975
+
+37 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Польская кухня — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F
+
+38 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Косинский, Михаил Иосифович — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%B8%D1%87
+
+39 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Ecco the Dolphin — Википедия.txt https://ru.wikipedia.org/wiki/Ecco_the_Dolphin
+
+40 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Нижняя Сенка — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D1%8F%D1%8F_%D0%A1%D0%B5%D0%BD%D0%BA%D0%B0
+
+41 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Uprising (альбом Entombed) — Википедия.txt https://ru.wikipedia.org/wiki/Uprising_(%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC_Entombed)
+
+42 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Феррейра, Хуан Карлос — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D1%80%D0%B5%D0%B9%D1%80%D0%B0,_%D0%A5%D1%83%D0%B0%D0%BD_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D1%81
+
+43 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Айдара, Массадио — Википедия.txt https://ru.wikipedia.org/wiki/%D0%90%D0%B9%D0%B4%D0%B0%D1%80%D0%B0,_%D0%9C%D0%B0%D1%81%D1%81%D0%B0%D0%B4%D0%B8%D0%BE
+
+44 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Пюи-Сен-Пьер — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9F%D1%8E%D0%B8-%D0%A1%D0%B5%D0%BD-%D0%9F%D1%8C%D0%B5%D1%80
+
+45 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Фаббро, Данте — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B1%D0%B1%D1%80%D0%BE,_%D0%94%D0%B0%D0%BD%D1%82%D0%B5
+
+46 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Ямгурчи-бий — Википедия.txt https://ru.wikipedia.org/wiki/%D0%AF%D0%BC%D0%B3%D1%83%D1%80%D1%87%D0%B8-%D0%B1%D0%B8%D0%B9
+
+47 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Эскимосский кроншнеп — Википедия.txt https://ru.wikipedia.org/wiki/%D0%AD%D1%81%D0%BA%D0%B8%D0%BC%D0%BE%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%BE%D0%BD%D1%88%D0%BD%D0%B5%D0%BF
+
+48 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Мендельсон, Эдуард — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D1%8C%D1%81%D0%BE%D0%BD,_%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4
+
+49 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Чеснок (противоконное заграждение) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%81%D0%BD%D0%BE%D0%BA_(%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BA%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
+
+50 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Струя (Московская область) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D1%8F_(%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)
+
+51 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Трипалладийгафний — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%BF%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B8%D0%B9%D0%B3%D0%B0%D1%84%D0%BD%D0%B8%D0%B9
+
+52 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Добромысленский сельсовет — Википедия.txt https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D0%BC%D1%8B%D1%81%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BE%D0%B2%D0%B5%D1%82
+
+53 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Одиар, Жак — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B8%D0%B0%D1%80,_%D0%96%D0%B0%D0%BA
+
+54 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Список звёзд созвездия Орла — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4_%D1%81%D0%BE%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B8%D1%8F_%D0%9E%D1%80%D0%BB%D0%B0
+
+55 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Pure (альбом In the Woods...) — Википедия.txt https://ru.wikipedia.org/wiki/Pure_(%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC_In_the_Woods...)
+
+56 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Кангаратер — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B0%D1%82%D0%B5%D1%80
+
+57 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Епархия Брно — Википедия.txt https://ru.wikipedia.org/wiki/%D0%95%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D1%8F_%D0%91%D1%80%D0%BD%D0%BE
+
+58 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Maxthon International Limited — Википедия.txt https://ru.wikipedia.org/wiki/Maxthon_International_Limited
+
+59 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Турланд — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%BB%D0%B0%D0%BD%D0%B4
+
+60 C:\Users\Edward\Desktop\InfoSearch\media\downloads\U-224 — Википедия.txt https://ru.wikipedia.org/wiki/U-224
+
+61 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Наземный общественный транспорт Киева — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B7%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D0%9A%D0%B8%D0%B5%D0%B2%D0%B0
+
+62 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Федяковское кладбище — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D1%8F%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5
+
+63 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Стабилизированная древесина — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B4%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%B8%D0%BD%D0%B0
+
+64 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Аракуари — Википедия.txt https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%BA%D1%83%D0%B0%D1%80%D0%B8
+
+65 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Сочитень — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%87%D0%B8%D1%82%D0%B5%D0%BD%D1%8C
+
+66 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Геннадий (Петреску) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9_(%D0%9F%D0%B5%D1%82%D1%80%D0%B5%D1%81%D0%BA%D1%83)
+
+67 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Таро (растение) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D0%BE_(%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B5)
+
+68 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Дину, Лоредана — Википедия.txt https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D1%83,_%D0%9B%D0%BE%D1%80%D0%B5%D0%B4%D0%B0%D0%BD%D0%B0
+
+69 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Уильямс, Родни — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81,_%D0%A0%D0%BE%D0%B4%D0%BD%D0%B8
+
+70 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Семь грязных слов — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D1%8C_%D0%B3%D1%80%D1%8F%D0%B7%D0%BD%D1%8B%D1%85_%D1%81%D0%BB%D0%BE%D0%B2
+
+71 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Перешифровка — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B0
+
+72 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Мазылы — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B7%D1%8B%D0%BB%D1%8B
+
+73 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Ташкенское — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5
+
+74 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Маленький принц (группа) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%B8%D0%BD%D1%86_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)
+
+75 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Солдатское (Горшеченский район) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%B5_(%D0%93%D0%BE%D1%80%D1%88%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)
+
+76 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Вале-де-Алфонсинью — Википедия.txt https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D0%B5-%D0%B4%D0%B5-%D0%90%D0%BB%D1%84%D0%BE%D0%BD%D1%81%D0%B8%D0%BD%D1%8C%D1%8E
+
+77 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Моффат, Майк — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%84%D1%84%D0%B0%D1%82,_%D0%9C%D0%B0%D0%B9%D0%BA
+
+78 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Ким (Брянская область) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC_(%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)
+
+79 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Каменка (Воротынский район) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BA%D0%B0_(%D0%92%D0%BE%D1%80%D0%BE%D1%82%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)
+
+80 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Кансё — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%81%D1%91
+
+81 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Скулский, Леопольд — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D1%83%D0%BB%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9B%D0%B5%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D0%B4
+
+82 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Талалаева, Антонина Степановна — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BD%D0%B0_%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0
+
+83 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Кубок ирландской лиги по футболу — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%B8%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D0%BB%D0%B8%D0%B3%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83
+
+84 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Жасталап (Алматинская область) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%96%D0%B0%D1%81%D1%82%D0%B0%D0%BB%D0%B0%D0%BF_(%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)
+
+85 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Хоболин — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%B1%D0%BE%D0%BB%D0%B8%D0%BD
+
+86 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Microsoft Office Forms Server — Википедия.txt https://ru.wikipedia.org/wiki/Microsoft_Office_Forms_Server
+
+87 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Умка на ёлке — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%91%D0%BB%D0%BA%D0%B5
+
+88 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Биллапс, Чонси — Википедия.txt https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BB%D0%BB%D0%B0%D0%BF%D1%81,_%D0%A7%D0%BE%D0%BD%D1%81%D0%B8
+
+89 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Дума (эпос) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%BC%D0%B0_(%D1%8D%D0%BF%D0%BE%D1%81)
+
+90 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Карман, Эзра — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD,_%D0%AD%D0%B7%D1%80%D0%B0
+
+91 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Новомихайловка (Кировский район) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0_(%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)
+
+92 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Свиблова, Ольга Львовна — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D0%B1%D0%BB%D0%BE%D0%B2%D0%B0,_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0_%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2%D0%BD%D0%B0
+
+93 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Лёринц, Тимя — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9B%D1%91%D1%80%D0%B8%D0%BD%D1%86,_%D0%A2%D0%B8%D0%BC%D1%8F
+
+94 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Ярёменко, Евгений Михайлович — Википедия.txt https://ru.wikipedia.org/wiki/%D0%AF%D1%80%D1%91%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87
+
+95 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Криничное (Одесская область) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BD%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_(%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)
+
+96 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Орден «За личное мужество» (Белоруссия) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%C2%AB%D0%97%D0%B0_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%BC%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE%C2%BB_(%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F)
+
+97 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Colletteichthys — Википедия.txt https://ru.wikipedia.org/wiki/Colletteichthys
+
+98 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Овата (река) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%9E%D0%B2%D0%B0%D1%82%D0%B0_(%D1%80%D0%B5%D0%BA%D0%B0)
+
+99 C:\Users\Edward\Desktop\InfoSearch\media\downloads\Секейруш (Амареш) — Википедия.txt https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BA%D0%B5%D0%B9%D1%80%D1%83%D1%88_(%D0%90%D0%BC%D0%B0%D1%80%D0%B5%D1%88)
+

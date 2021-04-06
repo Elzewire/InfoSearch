@@ -197,7 +197,7 @@ def boolean_search(request):
 
         # Загрузка инвертированных индексов
         index = {}
-        ixfile = open(os.path.join(STATICFILES_DIRS[0], INDEX_FILE), 'r')
+        ixfile = open(os.path.join(STATICFILES_DIRS[0], INV_INDEX_FILE), 'r')
         for l in ixfile.readlines():
             lemma = l.split(' ')[0]
             index[lemma] = set(int(x) for x in l.split(' ')[1:])
