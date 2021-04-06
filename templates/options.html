@@ -30,16 +30,17 @@
     </nav>
     <div class="container">
         <form style="margin-top: 100px" action="{% url "generate" %}">
-            <h2>Генерация страниц</h2>
+            <h2>Генерация статей</h2>
             <div class="form-group">
                 <label for="exampleInputEmail1">Количество</label>
                 <input type="number" name="amount" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" value="100">
             </div>
             <button type="submit" class="btn btn-warning">Сгенерировать</button>
         </form>
-        <h3 style="margin-top: 50px"><a class="text-warning" href="{% static "web_pages.txt" %}">Просмотреть список страниц</a></h3>
-        <h3 style="margin-top: 50px"><a class="text-warning" href="{% url "download" %}">Загрузить сгенерированные страницы</a></h3>
-        <h3 style="margin-top: 50px"><a class="text-warning" href="{% url "delete" %}">Удалить сгенерированные страницы</a></h3>
+        <h3 style="margin-top: 50px"><a class="text-warning" href="{% static "web_pages.txt" %}">Просмотреть список статей</a></h3>
+        <h3 style="margin-top: 50px"><a class="text-warning" href="{% url "articles" %}">Просмотреть статьи</a></h3>
+        <h3 style="margin-top: 50px"><a class="text-warning" href="{% url "download" %}">Загрузить сгенерированные статьи</a></h3>
+        <h3 style="margin-top: 50px"><a class="text-warning" href="{% url "delete" %}">Удалить сгенерированные статьи</a></h3>
         <hr>
         <h2 style="margin-top: 50px">Булев поиск</h2>
         <h3 style="margin-top: 50px"><a class="text-warning" href="{% static "index.txt" %}">Просмотреть файл инвертированного индекса</a></h3>

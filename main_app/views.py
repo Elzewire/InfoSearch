@@ -2,7 +2,7 @@ import os
 from math import log2
 
 from django.shortcuts import redirect, render
-from django.views.generic import TemplateView
+from django.views.generic import TemplateView, ListView
 
 from InfoSearch.settings import STATICFILES_DIRS, WEB_PAGES_FILE, INDEX_FILE, TF_IDF_INDEX_FILE
 from main_app.models import Document
@@ -23,6 +23,11 @@ class OptionsView(TemplateView):
     template_name = "options.html"
 
 
+class ArticlesView(ListView):
+    template_name = "articles.html"
+    model = Document
+
+
 def generate_view(request):
     if request.method == 'GET':
         amount = int(request.GET['amount'])
@@ -32,10 +37,12 @@ def generate_view(request):
 
 def download_view(request):
     if request.method == 'GET':
+        docs = Document.objects.all()
+        docs.delete()
         crawler = Crawler()
         index = 0
         for url in open(os.path.join(STATICFILES_DIRS[0], WEB_PAGES_FILE)):
-            name, path = crawler.crawl(url.split('\n')[0])
+            name, path = crawler.crawl(url.replace('\n', ' '))
             doc = Document.objects.create(index=index, url=url, name=name, file=path)
             doc.save()
             index += 1
@@ -77,6 +84,7 @@ def generate_tf_idf_index(request):
         for l in ixfile.readlines():
             lemma = l.split(' ')[0]
             idf[lemma] = log2(len(docs) / len(l.split(' ')[1:]))
+        ixfile.close()
 
         # Предзагрузка лемматизированных документов
         doc_lemmas = []
@@ -124,6 +132,7 @@ def vector_search(request):
             lemma = l.split(' ')[0]
             idf[lemma] = float(l.split(' ')[1])
             tf_idf[lemma] = [float(x) for x in l.split(' ')[2:]]
+        ixfile.close()
 
         # Вычисление вектора запроса
         ql_counts = {}
@@ -181,6 +190,7 @@ def boolean_search(request):
         for l in ixfile.readlines():
             lemma = l.split(' ')[0]
             index[lemma] = set(int(x) for x in l.split(' ')[1:])
+        ixfile.close()
 
         # Преобразование терминов в множества документов
         operations = bool_statement_to_postfix(q)

@@ -11,17 +11,6 @@ class Document(models.Model):
         return "{} {}".format(self.index, self.name)
 
     class Meta:
+        ordering = ['index']
         verbose_name = 'Документ'
         verbose_name_plural = 'Документы'
-
-
-class Index(models.Model):
-    lemma = models.CharField(max_length=48, verbose_name='Лемма')
-    index = models.IntegerField(verbose_name='Индекс')
-
-    def __str__(self):
-        return "{} {}".format(self.lemma, self.index)
-
-    class Meta:
-        verbose_name = 'Инвертированный индекс'
-        verbose_name_plural = 'Инвертированные индексы'
