@@ -4,7 +4,7 @@ from math import log2
 from django.shortcuts import redirect, render
 from django.views.generic import TemplateView, ListView
 
-from InfoSearch.settings import STATICFILES_DIRS, WEB_PAGES_FILE, INDEX_FILE, TF_IDF_INDEX_FILE
+from InfoSearch.settings import STATICFILES_DIRS, WEB_PAGES_FILE, INDEX_FILE, TF_IDF_INDEX_FILE, INV_INDEX_FILE
 from main_app.models import Document
 from s_engine.crawler import Crawler
 from s_engine.helpers import get_random_wiki_pages, cos_sim, bool_statement_to_postfix
@@ -41,11 +41,13 @@ def download_view(request):
         docs.delete()
         crawler = Crawler()
         index = 0
-        for url in open(os.path.join(STATICFILES_DIRS[0], WEB_PAGES_FILE)):
+        f = open(os.path.join(STATICFILES_DIRS[0], WEB_PAGES_FILE))
+        for url in f:
             name, path = crawler.crawl(url.replace('\n', ' '))
             doc = Document.objects.create(index=index, url=url, name=name, file=path)
             doc.save()
             index += 1
+        f.close()
     return redirect("options")
 
 
@@ -53,6 +55,15 @@ def delete_view(request):
     if request.method == 'GET':
         docs = Document.objects.all()
         docs.delete()
+    return redirect("options")
+
+
+def gen_index(request):
+    if request.method == 'GET':
+        ixfile = open(os.path.join(STATICFILES_DIRS[0], INDEX_FILE), 'w')
+        for d in Document.objects.all():
+            ixfile.write('{} {} {}\n'.format(d.index, d.file.path, d.url))
+        ixfile.close()
     return redirect("options")
 
 
@@ -68,7 +79,7 @@ def generate_inv_index(request):
                 if l not in rev_index.keys():
                     rev_index[l] = set()
                 rev_index[l].add(d.index)
-        ixfile = open(os.path.join(STATICFILES_DIRS[0], INDEX_FILE), 'w')
+        ixfile = open(os.path.join(STATICFILES_DIRS[0], INV_INDEX_FILE), 'w')
         for k in rev_index.keys():
             ixfile.write('{} {}\n'.format(k, ' '.join(str(s) for s in rev_index[k])))
         ixfile.close()
@@ -80,7 +91,7 @@ def generate_tf_idf_index(request):
         # Рассчёт IDF
         docs = Document.objects.all()
         idf = {}
-        ixfile = open(os.path.join(STATICFILES_DIRS[0], INDEX_FILE), 'r')
+        ixfile = open(os.path.join(STATICFILES_DIRS[0], INV_INDEX_FILE), 'r')
         for l in ixfile.readlines():
             lemma = l.split(' ')[0]
             idf[lemma] = log2(len(docs) / len(l.split(' ')[1:]))

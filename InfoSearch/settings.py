@@ -125,5 +125,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 WEB_PAGES_FILE = 'web_pages.txt'
 WIKI_URL = 'https://ru.wikipedia.org/wiki/Служебная:Случайная_страница'
 INDEX_FILE = 'index.txt'
+INV_INDEX_FILE = 'inv_index.txt'
 TF_IDF_INDEX_FILE = 'tf_idf_index.txt'
 DOWNLOADS_PATH = 'downloads'
